@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["U9E4UTEYPL.com.wu.playground.brickcorner"],
+        "components": [
+          { "/": "/BrickCorner/join/*", "?": { "code": "??????" }, "comment": "BrickCorner room invite (zh)" },
+          { "/": "/BrickCorner/en/join/*", "?": { "code": "??????" }, "comment": "BrickCorner room invite (en)" }
+        ]
+      }
+    ]
+  }
+}

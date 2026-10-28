@@ -1,0 +1,3 @@
+# Publish .well-known/ (GitHub Pages skips dot-folders by default) so iOS can
+# fetch apple-app-site-association for BrickCorner universal links.
+include: [".well-known"]
